@@ -65,7 +65,7 @@
 
 
 
-## Super-Resolution
+## Super-Resolution超分(共 34 条)
 ### ISR
 * [DreamSR: Towards Ultra-High-Resolution Image Super-Resolution via a Receptive-Field Enhanced Diffusion Transformer](https://arxiv.org/abs/2605.15682)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2605.15682) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/supplemental/Dong_DreamSR_Towards_Ultra-High-Resolution_CVPR_2026_supplemental.pdf)
 * [Dual Graph Regularized Deep Unfolding Network for Guided Depth Map Super-resolution](https://openaccess.thecvf.com/content/CVPR2026/supplemental/Zhong_Dual_Graph_Regularized_CVPR_2026_supplemental.pdf)<br>&nbsp;&nbsp;[⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/supplemental/Zhong_Dual_Graph_Regularized_CVPR_2026_supplemental.pdf)
@@ -103,7 +103,7 @@
 * [PS-SR: Pseudo-Single-Step Video Super-Resolution via Speculative Diffusion](https://openaccess.thecvf.com/content/CVPR2026/supplemental/Wu_PS-SR_Pseudo-Single-Step_Video_CVPR_2026_supplemental.pdf)<br>&nbsp;&nbsp;[⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/supplemental/Wu_PS-SR_Pseudo-Single-Step_Video_CVPR_2026_supplemental.pdf) | [🌐 Project](https://waq2001.github.io/PS-SR-page)
 * [Thermal Diffusion Matters: Infrared Spatial-Temporal Video Super-Resolution through Heat Conduction Priors](https://openaccess.thecvf.com/content/CVPR2026/supplemental/Zhou_Thermal_Diffusion_Matters_CVPR_2026_supplemental.pdf)<br>&nbsp;&nbsp;[⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/supplemental/Zhou_Thermal_Diffusion_Matters_CVPR_2026_supplemental.pdf)
 
-## 📂 Low-Level Vision (共 107 条)
+## 📂 Low-Level Vision底层视觉 (共 69 条)
 * [EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing](https://arxiv.org/abs/2603.19224)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2603.19224) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/supplemental/Fu_EffectErase_Joint_Video_CVPR_2026_supplemental.pdf)
 * [InstantRetouch: Efficient and High-Fidelity Instruction-Guided Image Retouching with Bilateral Space](https://openaccess.thecvf.com/content/CVPR2026/supplemental/Wu_InstantRetouch_Efficient_and_CVPR_2026_supplemental.pdf)<br>&nbsp;&nbsp;[⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/supplemental/Wu_InstantRetouch_Efficient_and_CVPR_2026_supplemental.pdf)
 * [BeautyGRPO: Aesthetic Alignment for Face Retouching via Dynamic Path Guidance and Fine-Grained Preference Modeling](https://arxiv.org/abs/2603.01163)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2603.01163) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/supplemental/Yang_BeautyGRPO_Aesthetic_Alignment_CVPR_2026_supplemental.pdf)
@@ -191,6 +191,7 @@
 
 
 
+---------4
 * [Beyond the Static-World: Lifelong Learning for All-in-One Medical Image Restoration](https://openaccess.thecvf.com/content/CVPR2026/papers/Shan_Beyond_the_Static-World_Lifelong_Learning_for_All-in-One_Medical_Image_Restoration_CVPR_2026_paper.pdf)<br>&nbsp;&nbsp;[⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Shan_Beyond_the_Static-World_Lifelong_Learning_for_All-in-One_Medical_Image_Restoration_CVPR_2026_paper.pdf)
 
 

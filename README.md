@@ -26,6 +26,17 @@
 ## [2021 年论文分类汇总戳这里](#00)
 ## [2020 年论文分类汇总戳这里](#0)
 
+## 💥💥💥获奖论文💥💥💥
+#### 最佳论文奖🏆
+* [Efficiently Reconstructing Dynamic Scenes One D4RT at a Time](https://arxiv.org/abs/2512.08924)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2512.08924) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Efficiently_Reconstructing_Dynamic_Scenes_One_D4RT_at_a_Time_CVPR_2026_paper.pdf)| [📍 中文解读](https://mp.weixin.qq.com/s/VvQVdgmjBTypcbvjjwQADQ)
+#### 最佳学生论文奖🏆
+* [Native and Compact Structured Latents for 3D Generation](https://arxiv.org/abs/2512.14692)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2512.14692) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Xiang_Native_and_Compact_Structured_Latents_for_3D_Generation_CVPR_2026_paper.pdf)| [📍 中文解读](https://mp.weixin.qq.com/s/UfnZqPffM8B2tmHmg3Vrww)
+#### 最佳论文提名奖🏆
+* [SAM 3D: 3Dfy Anything in Images](https://arxiv.org/abs/2511.16624)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2511.16624) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_SAM_3D_3Dfy_Anything_in_Images_CVPR_2026_paper.pdf)| [📍 中文解读](https://mp.weixin.qq.com/s/EumoFjz29rwKhOPmTHVSLA)
+#### 最佳学生论文提名奖🏆
+* [ChordEdit: One-Step Low-Energy Transport for Image Editing](https://arxiv.org/abs/2602.19083)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2602.19083) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Lu_ChordEdit_One-Step_Low-Energy_Transport_for_Image_Editing_CVPR_2026_paper.pdf)| [📍 中文解读](https://mp.weixin.qq.com/s/4XePzgnExCzhhgXJz89YOA)
+
+
 ## 目录
 
 |:cat:|:dog:|:tiger:|:wolf:|

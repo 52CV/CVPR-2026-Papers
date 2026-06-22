@@ -41,42 +41,27 @@
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
-| | | | 
+|[1.Othere(其它)](#1)|[2.Computational Imaging(计算成像)](#2)|[3.‌VRD（视觉关系识别）](#3)|[4.SFE(场景流估计)](#4)|
+|[5.Animal](#5)|[6.Image Fusion(图像融合)](#6)|[7.HOI(人物交互)](#7)|[8.Retrieval-Augmented Generation (RAG)](#8)|
+|[9.Medical(医学图像分析)](#9)|[10.Cross-View Geo-Localization(跨视角地理定位)](#10)|[11.VQA(视觉问答)](#11)|[12.NAS(神经架构搜索) (#12)|
+|[13.6-DoF(物体姿态估计/计数)](#13)|[14.OCR](#14)|[15.Optical Flow Estimation(光流估计)](#15)|[16.Multi-view Clustering(多视角聚类)](#16)|
+|[17.Style Transfer(风格迁移)](#17)|[18.Sound & Audio(语音)](#18)|[19.Sketch(草图)](#19)|[20.Protecting copyright(版权保护)](#20)|
+|[21.Gaze Estimation(凝视估计)](#21)|[22.OOD](#22)|[23.Deepfake Detection](#23)|[24.UAV/RS/Satellite Image(遥感航空影像) ](#24)|
+|[25.Person Re-id(行人重识别)](#25)|[26.Industrial Anomaly Detection(工业异常检测)](#26)|[27.caption(字幕)](#27)|[28.Semi/Self-Supervised(监督学习)](#28)|
+|[29.Vision Transformers](#29)|[30.point cloud(点云)](#30)|[31.Few/Zero-Shot Learning/DG/A(小/零样本/域适应/域泛化)](#31)|[32.Classification(图像分类)](#32)|
+|[33.Tracking(跟踪)](#33)|[34.Image/Video Compression(压缩)](#34)|[35.Image Retrieval(检索)](#35)|[36.Neural Radiance Fields](#36)|
+|[37.Action Recognition(动作识别)](#37)|[38.object detection(目标检测)](#38)|[39.BiometricS(生物特征识别)](#39)|[40.face(人脸技术)](#40)|
+|[41.human pose estimation(姿态估计)](#41)|[42.Video Understanding(视频理解)](#42)|[43.model compression(模型部署)](#43)|[44.Machine learning(机器学习)](#44)|
+|[45.robotics & embodied ai(机器人)](#45)|[46.Semantic Scene Completion(语义场景补全)](#46)|[47.Low-Level Vision(底层视觉)](#47)|[48.Super-Resolution(超分辨率)](#48)|
+|[49.image segmentation(图像分割)](#49)|[50.Dense Prediction(密集预测)](#50)|[51.Dataset/Benchmark(数据集/基准)](#51)|[52.3D(三维重建/视觉) ](#52)|
+|[53.Feature Matching(特征匹配)](#53)|[54.Flow Matching(流匹配) ](#54)|[55.AIGC/GAN/生成](#55)|[56.Vision-Language(视觉语言)](#56)|
+|[57.Autonomous Driving(自动驾驶)](#57)|[58.Scene Understanding(场景理解)](#58)|
 
 
+<a name="58"/>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 📂 
-
-
-
-
-
-
-
-
-
-
-
-## 📂Scene Understanding(场景理解) (共 15 条)
+## 📂58.Scene Understanding(场景理解) (共 15 条)
 * [RoadSceneBench: A Lightweight Benchmark for Mid-Level Road Scene Understanding](https://arxiv.org/abs/2511.22466)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2511.22466) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_RoadSceneBench_A_Lightweight_Benchmark_for_Mid-Level_Road_Scene_Understanding_CVPR_2026_paper.pdf) | [⭐ Code](https://github.com/XiyanLiu/RoadSceneBench)
 * [Curvature-Aware Captioning: Leveraging Geodesic Attention for 3D Scene Understanding](https://openaccess.thecvf.com/content/CVPR2026/papers/He_Curvature-Aware_Captioning_Leveraging_Geodesic_Attention_for_3D_Scene_Understanding_CVPR_2026_paper.pdf)<br>&nbsp;&nbsp;[⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/He_Curvature-Aware_Captioning_Leveraging_Geodesic_Attention_for_3D_Scene_Understanding_CVPR_2026_paper.pdf)
 * [OpenVoxel: Training-Free Grouping and Captioning Voxels for Open-Vocabulary 3D Scene Understanding](https://arxiv.org/abs/2601.09575)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2601.09575) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Huang_OpenVoxel_Training-Free_Grouping_and_Captioning_Voxels_for_Open-Vocabulary_3D_Scene_CVPR_2026_paper.pdf)
@@ -99,20 +84,9 @@
     * [HOG-Layout: Hierarchical 3D Scene Generation, Optimization and Editing via Vision-Language Models](https://arxiv.org/abs/2604.10772)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2604.10772) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Jiang_HOG-Layout_Hierarchical_3D_Scene_Generation_Optimization_and_Editing_via_Vision-Language_CVPR_2026_paper.pdf)
 
 
-----------------------------------------------------------------------------------
+<a name="57"/>
 
-
-
---------------------------------------
-
-
-
-
-
-
-
-6666666
-## 📂自动驾驶 (共 56 条)
+## 📂57.Autonomous Driving(自动驾驶) (共 56 条)
 * [CamDirector: Towards Long-Term Coherent Video Trajectory Editing](https://arxiv.org/abs/2603.02256)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2603.02256) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Yin_CamDirector_Towards_Long-Term_Coherent_Video_Trajectory_Editing_CVPR_2026_paper.pdf)
 * [Open-Ended Instruction Realization with LLM-Enabled Multi-Planner Scheduling in Autonomous Vehicles](https://arxiv.org/abs/2604.08031)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2604.08031) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Open-Ended_Instruction_Realization_with_LLM-Enabled_Multi-Planner_Scheduling_in_Autonomous_Vehicles_CVPR_2026_paper.pdf)
 * [Neuro-Cognitive Reward Modeling for Human-Centered Autonomous Vehicle Control](https://arxiv.org/abs/2603.25968)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2603.25968) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhuang_Neuro-Cognitive_Reward_Modeling_for_Human-Centered_Autonomous_Vehicle_Control_CVPR_2026_paper.pdf)
@@ -180,7 +154,9 @@
 
 
 
-## 📂 Vision-Language(视觉语言) (共 318 条)
+<a name="56"/>
+
+## 📂 56.Vision-Language(视觉语言) (共 318 条)
 * [A Causal Marriage between VLM and IRM from Understanding to Reasoning](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_A_Causal_Marriage_between_VLM_and_IRM_from_Understanding_to_CVPR_2026_paper.pdf)<br>&nbsp;&nbsp; [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_A_Causal_Marriage_between_VLM_and_IRM_from_Understanding_to_CVPR_2026_paper.pdf) 
 * [Beyond Graph Model: Reliable VLM Fine-Tuning via Random Graph Adapter](https://arxiv.org/abs/2507.10355)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2507.10355) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Jiang_Beyond_Graph_Model_Reliable_VLM_Fine-Tuning_via_Random_Graph_Adapter_CVPR_2026_paper.pdf)
 * [HulluEdit: Single-Pass Evidence-Consistent Subspace Editing for Mitigating Hallucinations in Large Vision-Language Models](https://arxiv.org/abs/2602.22727)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2602.22727) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Lin_HulluEdit_Single-Pass_Evidence-Consistent_Subspace_Editing_for_Mitigating_Hallucinations_in_Large_CVPR_2026_paper.pdf) 
@@ -427,9 +403,10 @@
     * [Think-as-You-See: Streaming Chain-of-Thought Reasoning for Large Vision-Language Models](https://arxiv.org/abs/2603.02872)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2603.02872) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhang_Think-as-You-See_Streaming_Chain-of-Thought_Reasoning_for_Large_Vision-Language_Models_CVPR_2026_paper.pdf)
     * [Structural Graph Probing of Vision-Language Models](https://arxiv.org/abs/2603.27070)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2603.27070) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/He_Structural_Graph_Probing_of_Vision-Language_Models_CVPR_2026_paper.pdf) | [⭐ Code](https://github.com/he-h/vlm-graph-probing)
 
+<a name="55"/>
 
 
-## 📂AIGC/GAN/生成
+## 📂55.AIGC/GAN/生成
 * 纹理生成
     * [MatLat: Material Latent Space for PBR Texture Generation](https://arxiv.org/abs/2512.17302)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2512.17302) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Yeo_MatLat_Material_Latent_Space_for_PBR_Texture_Generation_CVPR_2026_paper.pdf) | [🌐 Project](https://matlat-proj.github.io/) | [⭐ Code](https://github.com/KAIST-Visual-AI-Group/MatLat)
     * [NaTex: Seamless Texture Generation as Latent Color Diffusion](https://arxiv.org/abs/2511.16317)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2511.16317) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Lai_NaTex_Seamless_Texture_Generation_as_Latent_Color_Diffusion_CVPR_2026_paper.pdf) | [🌐 Project](https://natex-ldm.github.io/)| [⭐ Code](https://github.com/Zeqiang-Lai/NaTex)
@@ -833,8 +810,10 @@
 
 
 
+<a name="54"/>
 
-## 📂 Flow Matching(流匹配) (共 17 条)
+
+## 📂 54.Flow Matching(流匹配) (共 17 条)
 * [Stepwise Credit Assignment for GRPO on Flow-Matching Models](https://arxiv.org/abs/2603.28718)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2603.28718) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Savani_Stepwise_Credit_Assignment_for_GRPO_on_Flow-Matching_Models_CVPR_2026_paper.pdf)
 * [MotionHiFlow: Text-to-Motion via Hierarchical Flow Matching](https://arxiv.org/abs/2604.23264)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2604.23264) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_MotionHiFlow_Text-to-Motion_via_Hierarchical_Flow_Matching_CVPR_2026_paper.pdf)
 * [PoseD-Flow: Versatile and Guided Flow Matching Model of Human Pose](https://openaccess.thecvf.com/content/CVPR2026/papers/Nadar_PoseD-Flow_Versatile_and_Guided_Flow_Matching_Model_of_Human_Pose_CVPR_2026_paper.pdf)<br>&nbsp;&nbsp;[⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Nadar_PoseD-Flow_Versatile_and_Guided_Flow_Matching_Model_of_Human_Pose_CVPR_2026_paper.pdf)
@@ -856,16 +835,20 @@
 
 
 
-## 📂Feature Matching(特征匹配)(共 3 条)
+<a name="53"/>
+
+## 📂53.Feature Matching(特征匹配)(共 3 条)
 * [Scalable Feature Matching via State Space Modeling and Sparse Correlation](https://openaccess.thecvf.com/content/CVPR2026/papers/Choo_Scalable_Feature_Matching_via_State_Space_Modeling_and_Sparse_Correlation_CVPR_2026_paper.pdf)<br>&nbsp;&nbsp;[⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Choo_Scalable_Feature_Matching_via_State_Space_Modeling_and_Sparse_Correlation_CVPR_2026_paper.pdf) | [⭐ Code](https://github.com/Band-127/SLiM)
 * [AsymLoc: Towards Asymmetric Feature Matching for Efficient Visual Localization](https://arxiv.org/abs/2604.09445)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2604.09445) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Omama_AsymLoc_Towards_Asymmetric_Feature_Matching_for_Efficient_Visual_Localization_CVPR_2026_paper.pdf)
 * [TextFM: Robust Semi-dense Feature Matching with Language Guidance](https://openaccess.thecvf.com/content/CVPR2026/papers/Zheng_TextFM_Robust_Semi-dense_Feature_Matching_with_Language_Guidance_CVPR_2026_paper.pdf)<br>&nbsp;&nbsp;[⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Zheng_TextFM_Robust_Semi-dense_Feature_Matching_with_Language_Guidance_CVPR_2026_paper.pdf)
 
 
 
+<a name="52"/>
 
 
-## 📂 3D(三维重建/视觉) (共 546 条)
+
+## 📂 52.3D(三维重建/视觉) (共 546 条)
 * [Scalable Object Relation Encoding for Better 3D Spatial Reasoning in Large Language Models](https://arxiv.org/abs/2603.24721)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2603.24721) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Zhou_Scalable_Object_Relation_Encoding_for_Better_3D_Spatial_Reasoning_in_CVPR_2026_paper.pdf) | [⭐ Code](https://github.com/oceanflowlab/QuatRoPE)
 * [LoG3D: Ultra-High-Resolution 3D Shape Modeling via Local-to-Global Partitioning](https://arxiv.org/abs/2511.10040)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2511.10040) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_LoG3D_Ultra-High-Resolution_3D_Shape_Modeling_via_Local-to-Global_Partitioning_CVPR_2026_paper.pdf) 
 * [Action-Geometry Prediction with 3D Geometric Prior for Bimanual Manipulation](https://arxiv.org/abs/2602.23814)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2602.23814) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Xu_Action-Geometry_Prediction_with_3D_Geometric_Prior_for_Bimanual_Manipulation_CVPR_2026_paper.pdf) | [⭐ Code](https://github.com/Chongyang-99/GAP)

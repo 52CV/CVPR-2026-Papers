@@ -43,7 +43,7 @@
 |------|------|------|------|
 |[1.Othere(其它)](#1)|[2.Computational Imaging(计算成像)](#2)|[3.‌VRD（视觉关系识别）](#3)|[4.SFE(场景流估计)](#4)|
 |[5.Animal](#5)|[6.Image Fusion(图像融合)](#6)|[7.HOI(人物交互)](#7)|[8.Retrieval-Augmented Generation (RAG)](#8)|
-|[9.Medical(医学图像分析)](#9)|[10.Cross-View Geo-Localization(跨视角地理定位)](#10)|[11.VQA(视觉问答)](#11)|[12.NAS(神经架构搜索) (#12)|
+|[9.Medical(医学图像分析)](#9)|[10.Cross-View Geo-Localization(跨视角地理定位)](#10)|[11.VQA(视觉问答)](#11)|[12.NAS(神经架构搜索)] (#12)|
 |[13.6-DoF(物体姿态估计/计数)](#13)|[14.OCR](#14)|[15.Optical Flow Estimation(光流估计)](#15)|[16.Multi-view Clustering(多视角聚类)](#16)|
 |[17.Style Transfer(风格迁移)](#17)|[18.Sound & Audio(语音)](#18)|[19.Sketch(草图)](#19)|[20.Protecting copyright(版权保护)](#20)|
 |[21.Gaze Estimation(凝视估计)](#21)|[22.OOD](#22)|[23.Deepfake Detection](#23)|[24.UAV/RS/Satellite Image(遥感航空影像) ](#24)|

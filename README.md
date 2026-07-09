@@ -57,7 +57,6 @@
 ## [41-58](https://github.com/52CV/CVPR-2026-Papers/blob/main/41-58.md)
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
-
 |[41.human pose estimation(姿态估计)](#41)|[42.Video Understanding(视频理解)](#42)|[43.model compression(模型部署)](#43)|[44.Machine learning(机器学习)](#44)|
 |[45.robotics & embodied ai(机器人)](#45)|[46.Semantic Scene Completion(语义场景补全)](#46)|[47.Low-Level Vision(底层视觉)](#47)|[48.Super-Resolution(超分辨率)](#48)|
 |[49.image segmentation(图像分割)](#49)|[50.Dense Prediction(密集预测)](#50)|[51.Dataset/Benchmark(数据集/基准)](#51)|[52.3D(三维重建/视觉) ](#52)|

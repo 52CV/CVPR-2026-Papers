@@ -36,9 +36,9 @@
 #### 最佳学生论文提名奖🏆
 * [ChordEdit: One-Step Low-Energy Transport for Image Editing](https://arxiv.org/abs/2602.19083)<br>&nbsp;&nbsp;[📄 arXiv](https://arxiv.org/abs/2602.19083) | [⬇️ PDF](https://openaccess.thecvf.com/content/CVPR2026/papers/Lu_ChordEdit_One-Step_Low-Energy_Transport_for_Image_Editing_CVPR_2026_paper.pdf)| [📍 中文解读](https://mp.weixin.qq.com/s/4XePzgnExCzhhgXJz89YOA)
 
+## [1.其他](https://github.com/52CV/CVPR-2026-Papers/blob/main/1%E5%85%B6%E4%BB%96%E5%88%86%E7%B1%BB.md)
 
-## 目录
-
+## [2-20](https://github.com/52CV/CVPR-2026-Papers/blob/main/1-20.md)
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
 |[1.Othere(其它)](#1)|[2.Computational Imaging(计算成像)](#2)|[3.‌VRD（视觉关系识别）](#3)|[4.SFE(场景流估计)](#4)|
@@ -46,25 +46,23 @@
 |[9.Medical(医学图像分析)](#9)|[10.Cross-View Geo-Localization(跨视角地理定位)](#10)|[11.VQA(视觉问答)](#11)|[12.NAS(神经架构搜索)](#12)|
 |[13.6-DoF(物体姿态估计/计数)](#13)|[14.OCR](#14)|[15.Optical Flow Estimation(光流估计)](#15)|[16.Multi-view Clustering(多视角聚类)](#16)|
 |[17.Style Transfer(风格迁移)](#17)|[18.Sound & Audio(语音)](#18)|[19.Sketch(草图)](#19)|[20.Protecting copyright(版权保护)](#20)|
+## [21-40](https://github.com/52CV/CVPR-2026-Papers/blob/main/21-40.md)
+|:cat:|:dog:|:tiger:|:wolf:|
+|------|------|------|------|
 |[21.Gaze Estimation(凝视估计)](#21)|[22.OOD](#22)|[23.Deepfake Detection](#23)|[24.UAV/RS/Satellite Image(遥感航空影像) ](#24)|
 |[25.Person Re-id(行人重识别)](#25)|[26.Industrial Anomaly Detection(工业异常检测)](#26)|[27.caption(字幕)](#27)|[28.Semi/Self-Supervised(监督学习)](#28)|
 |[29.Vision Transformers](#29)|[30.point cloud(点云)](#30)|[31.Few/Zero-Shot Learning/DG/A(小/零样本/域适应/域泛化)](#31)|[32.Classification(图像分类)](#32)|
 |[33.Tracking(跟踪)](#33)|[34.Image/Video Compression(压缩)](#34)|[35.Image Retrieval(检索)](#35)|[36.Neural Radiance Fields](#36)|
 |[37.Action Recognition(动作识别)](#37)|[38.object detection(目标检测)](#38)|[39.BiometricS(生物特征识别)](#39)|[40.face(人脸技术)](#40)|
+## [41-58](https://github.com/52CV/CVPR-2026-Papers/blob/main/41-58.md)
+|:cat:|:dog:|:tiger:|:wolf:|
+|------|------|------|------|
+
 |[41.human pose estimation(姿态估计)](#41)|[42.Video Understanding(视频理解)](#42)|[43.model compression(模型部署)](#43)|[44.Machine learning(机器学习)](#44)|
 |[45.robotics & embodied ai(机器人)](#45)|[46.Semantic Scene Completion(语义场景补全)](#46)|[47.Low-Level Vision(底层视觉)](#47)|[48.Super-Resolution(超分辨率)](#48)|
 |[49.image segmentation(图像分割)](#49)|[50.Dense Prediction(密集预测)](#50)|[51.Dataset/Benchmark(数据集/基准)](#51)|[52.3D(三维重建/视觉) ](#52)|
 |[53.Feature Matching(特征匹配)](#53)|[54.Flow Matching(流匹配) ](#54)|[55.AIGC/GAN/生成](#55)|[56.Vision-Language(视觉语言)](#56)|
 |[57.Autonomous Driving(自动驾驶)](#57)|[58.Scene Understanding(场景理解)](#58)|
-
-
-## [1.其他](https://github.com/52CV/CVPR-2026-Papers/blob/main/1%E5%85%B6%E4%BB%96%E5%88%86%E7%B1%BB.md)
-
-## [2-20](https://github.com/52CV/CVPR-2026-Papers/blob/main/1-20.md)
-
-## [21-40](https://github.com/52CV/CVPR-2026-Papers/blob/main/21-40.md)
-
-## [41-58](https://github.com/52CV/CVPR-2026-Papers/blob/main/41-58.md)
 
 <a name="0"/>
 

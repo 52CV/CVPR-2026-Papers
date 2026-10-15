@@ -9,6 +9,9 @@
 
 ## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
 
+## 2026 年论文分类汇总戳这里
+↘️[CVPR-2026-Papers](https://github.com/52CV/CVPR-2026-Papers)
+↘️[ECCV-2026-Papers](https://github.com/52CV/ECCV-2026-Papers)
 
 ## 2025 年论文分类汇总戳这里
 ↘️[ICCV-2025-Papers](https://github.com/52CV/ICCV-2025-Papers)
